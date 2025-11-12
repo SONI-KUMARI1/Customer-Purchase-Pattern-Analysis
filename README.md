@@ -36,7 +36,6 @@ SQL Server → For querying, segmentation, and business analysis
 
 Power BI → For data visualization and storytelling through dashboards
 
-Excel & KNIME → For data validation and workflow automation
 
 📊 Project Workflow
 
@@ -50,17 +49,6 @@ Power BI Dashboard – Designed a visually interactive dashboard showing purchas
 
 Business Insights & Report – Created a report and presentation summarizing all findings and recommendations.
 
-💼 Who Can Learn from This Project
-
-📊 Aspiring Data Analysts building portfolio projects for LinkedIn or interviews
-
-🧮 Students and professionals learning Python, SQL, and Power BI
-
-💡 Career switchers exploring practical business data problems
-
-📜 Project License
-
-Open for learning and portfolio use. You’re free to fork, explore, and adapt the work for your learning journey.
 
 👩‍💻 About the Author
 
